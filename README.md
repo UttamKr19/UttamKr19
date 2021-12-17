@@ -9,7 +9,7 @@
     - HTML, CSS, JS, Bootstrap
     - ReactJs
   - I’m currently learning Big Data, Data Engineering and DSA.
-- 👀 I’m interested in working as a developer projects where I could use my logical thinking and work experience.
+- 👀 I’m interested in working as a developer projects where I could apply my logical thinking and work experience.
 <!-- - 💞️ I’m looking to learn DSA, Spring Boot and collaborate with others. -->
 - 📫 Contacts: 
     - uttam.kr.work@gmail.com
