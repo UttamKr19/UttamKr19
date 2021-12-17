@@ -8,9 +8,9 @@
   - Web Dev:
     - HTML, CSS, JS, Bootstrap
     - ReactJs
-  - I’m currently learning Big Data and Data Engineering.
+  - I’m currently learning Big Data, Data Engineering and DSA.
 - 👀 I’m interested in working as a on projects where I could use my logical thinking and work experience.
-- 💞️ I’m looking to learn DSA, Spring Boot and collaborate with others.
+<!-- - 💞️ I’m looking to learn DSA, Spring Boot and collaborate with others. -->
 - 📫 Contacts: 
     - uttam.kr.work@gmail.com
 
